@@ -1,5 +1,3 @@
-
-
 import React from 'react';
 import img from "/public/5d6ba50f5e5603476fbd5f4a0bf0c100.png"
 import { IoIosArrowBack ,IoIosArrowForward  } from "react-icons/io";
